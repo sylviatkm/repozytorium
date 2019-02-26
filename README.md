@@ -1,0 +1,1 @@
+teraz bedzie dzialac VM
